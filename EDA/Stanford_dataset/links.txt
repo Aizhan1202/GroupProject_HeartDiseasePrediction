@@ -1,0 +1,3 @@
+https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
+https://diabetestalk.net/diabetes/diabetes-dataset-csv
+https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt
