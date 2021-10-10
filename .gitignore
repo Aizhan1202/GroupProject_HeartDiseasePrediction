@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.ipynb_checkpoints/NHANES Diabetes Data-checkpoint.ipynb
+.ipynb_checkpoints/NHANES Diabetes Data - glucose and other-checkpoint.ipynb
+Features analysis/.ipynb_checkpoints/Factors analysis - two-checkpoint.ipynb
+Features analysis/.ipynb_checkpoints/Merging data-checkpoint.ipynb
+Heart Disease EDA/.ipynb_checkpoints/Heart disease EDA - Chest Pain-checkpoint.ipynb
+Heart Disease Prediction/.ipynb_checkpoints/Heart Disease Prediction-checkpoint.ipynb
